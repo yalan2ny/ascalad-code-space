@@ -1,4 +1,4 @@
-# Try Out Development Containers: Node.js
+#tab Try Out Development Containers: Node.js
 
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-node)
 
@@ -20,7 +20,7 @@ For more info, check out the [GitHub documentation](https://docs.github.com/en/f
   
 ### VS Code Dev Containers
 
-If you already have VS Code and Docker installed, you can click the badge above or [here](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-node) to get started. Clicking these links will cause VS Code to automatically install the Dev Containers extension if needed, clone the source code into a container volume, and spin up a dev container for use.
+escIf you already have VS Code and Docker installed, you can click the badge above or [here](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-node) to get started. Clicking these links will cause VS Code to automatically install the Dev Containers extension if needed, clone the source code into a container volume, and spin up a dev container for use.
 
 Follow these steps to open this sample in a container using the VS Code Dev Containers extension:
 
@@ -40,7 +40,7 @@ Follow these steps to open this sample in a container using the VS Code Dev Cont
 
 ## Things to try
 
-Once you have this sample opened, you'll be able to work with it like you would locally.
+tabOnce you have this sample opened, you'll be able to work with it like you would locally.
 
 Some things to try:
 
